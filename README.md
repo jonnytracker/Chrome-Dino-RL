@@ -10,7 +10,7 @@ https://youtu.be/vahwuupy81A
 
 
 STEP:
-1. Open the chrome dino game chrome://dino
+1. Open google  chrome browser and enter "chrome://dino" to load the offline dino game
 2. Run the python script
 
    
