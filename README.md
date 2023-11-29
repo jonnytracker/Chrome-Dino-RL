@@ -3,7 +3,8 @@
 Original 
 https://github.com/nicknochnack/DinoAI/tree/main
 
-From youtube tutorial https://youtu.be/vahwuupy81A
+From youtube tutorial of stable_baselines3 RL agent playing Google Chrome Dino game
+https://youtu.be/vahwuupy81A
 
 
 
